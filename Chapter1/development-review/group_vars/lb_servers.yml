@@ -2,7 +2,6 @@ haproxy_appservers:
   - name: node1.vdc.local
     ip: "192.168.2.82"
   - name: node2.vdc.local
-    ip: "192.168.2.83"
-    
+    ip: "192.168.2.83"  
 
 
